@@ -25,7 +25,10 @@ public class EnemyController : MonoBehaviour
         float distance = Vector3.Distance(target.position, transform.position);
         if (distance <= lookRadius)
         {
+            //If the method SetDestination doesn't work, we can reference the agent as a public variable and 
+            //reference the enemy manually.
             agent.SetDestination(target.position);
+            Debug.Log(agent.destination);
         }
     }
 
