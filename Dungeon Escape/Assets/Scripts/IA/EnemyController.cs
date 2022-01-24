@@ -11,6 +11,8 @@ public class EnemyController : MonoBehaviour
     private GameObject[] players;
     private NavMeshAgent agent;
 
+    public Renderer r;
+    public GameObject enemy;
     
     // Start is called before the first frame update
     void Start()
@@ -38,6 +40,15 @@ public class EnemyController : MonoBehaviour
             {
                 agent.SetDestination(player.transform.position);
             }
+        }
+
+        if (Input.GetKeyDown(KeyCode.Keypad7))
+        {
+            float randomX = Random.Range(r.bounds.min.x, r.bounds.max.x);
+            float randomZ = Random.Range(r.bounds.min.z, r.bounds.max.z);
+            RaycastHit hit;
+            if (Physics.Raycast(new Vector3(randomX, r.bounds.max.y + 5f, randomZ), -Vector3.up, out hit))
+                Instantiate(enemy.transform, hit.point, Quaternion.Euler(0f, 0f, 0f));
         }
     }
 
