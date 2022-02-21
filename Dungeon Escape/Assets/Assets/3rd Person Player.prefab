@@ -62,8 +62,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 65de227652325eb48b96d62f9fe0051b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   controller: {fileID: 1177138959417348199}
   cam: {fileID: 0}
   groundCheck: {fileID: 1177138961029459176}
