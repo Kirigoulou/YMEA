@@ -1,8 +1,12 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Dungeon Escape/Assets/Scenes/TestScene/NavMesh-NavMesh.asset.meta
 guid: ebc1fa75a71a6934a9f8f1e7f145d0a7
+========
+guid: 608d5ffbcc8ba6d4da4dcc0224fef9ea
+>>>>>>>> 28dce0280aec13b9600dcd385553b8aa42d3b387:Dungeon Escape/Assets/BrokenVector/UltimateDungeonPack/Materials/Candles.mat.meta
 NativeFormatImporter:
   externalObjects: {}
-  mainObjectFileID: 23800000
+  mainObjectFileID: 2100000
   userData: 
   assetBundleName: 
   assetBundleVariant: 
