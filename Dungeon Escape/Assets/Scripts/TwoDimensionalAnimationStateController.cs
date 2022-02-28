@@ -37,11 +37,9 @@ public class TwoDimensionalAnimationStateController : MonoBehaviour
 		ChangeVelocity(forwardPressed, leftPressed, rightPressed, runPressed, currentMaxVelocity);
 		LockOrResetVelocity(forwardPressed, leftPressed, rightPressed, runPressed, currentMaxVelocity);
 
-		Debug.Log($"{velocityZ}, {currentMaxVelocity}");
-
 		animator.SetFloat(VelocityZHash, velocityZ);
 		animator.SetFloat(VelocityXHash, velocityX);
-	}
+    }
 
 	void ChangeVelocity(bool forwardPressed, bool leftPressed, bool rightPressed, bool runPressed, float currentMaxVelocity)
 	{
