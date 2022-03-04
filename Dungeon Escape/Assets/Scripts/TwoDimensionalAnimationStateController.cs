@@ -26,7 +26,7 @@ public class TwoDimensionalAnimationStateController : MonoBehaviour
     void Update()
     {
         //Get player input
-		bool forwardPressed = Input.GetKey(KeyCode.W);
+		bool forwardPressed = Input.GetKey(KeyCode.W) || Input.GetKey(KeyCode.S);		//Forward or Backward
 		bool leftPressed = Input.GetKey(KeyCode.A);
 		bool rightPressed = Input.GetKey(KeyCode.D);
 		bool runPressed = Input.GetKey(KeyCode.LeftShift);

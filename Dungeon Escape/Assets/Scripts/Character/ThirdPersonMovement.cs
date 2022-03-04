@@ -17,6 +17,7 @@ public class ThirdPersonMovement : MonoBehaviour
     public float jumpHeight = 3f;
 
     private bool isGrounded;
+    public bool IsGround => isGrounded;
 
     private Vector3 velocity;
     

@@ -3,37 +3,98 @@
   <component name="ChangeListManager">
     <list default="true" id="15a84060-0393-4c80-ab2f-98904fdc7671" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Dungeon Escape/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Dungeon Escape/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/CharacterAnimations/Attacking/Attack.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/CharacterAnimations/Attacking/Attack.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/CharacterAnimations/Attacking/Attack2.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/CharacterAnimations/Attacking/Attack2.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/CharacterAnimations/Attacking/Attack3.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/CharacterAnimations/Attacking/Attack3.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/CharacterAnimations/Attacking/Attack4.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/CharacterAnimations/Attacking/Attack4.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/CharacterAnimations/Attacking/Cast.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/CharacterAnimations/Attacking/Cast.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/CharacterAnimations/Attacking/Cast2.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/CharacterAnimations/Attacking/Cast2.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/CharacterAnimations/Attacking/Kick.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/CharacterAnimations/Attacking/Kick.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/CharacterAnimations/Attacking/PowerUp.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/CharacterAnimations/Attacking/PowerUp.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/CharacterAnimations/Slashing/Slash.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/CharacterAnimations/Slashing/Slash.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/CharacterAnimations/Slashing/Slash2.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/CharacterAnimations/Slashing/Slash2.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/CharacterAnimations/Slashing/Slash3.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/CharacterAnimations/Slashing/Slash3.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/CharacterAnimations/Slashing/Slash4.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/CharacterAnimations/Slashing/Slash4.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/CharacterAnimations/Slashing/Slash5.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/CharacterAnimations/Slashing/Slash5.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/CharacterAnimator.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/CharacterAnimator.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/CharacterAnimations/Attacking/Attack3.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/CharacterAnimations/Attacking/Attack3.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/CharacterAnimations/Attacking/Cast.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/CharacterAnimations/Attacking/Cast.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/CharacterAnimations/CharacterAnimatorMovements.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/CharacterAnimations/CharacterAnimatorMovements.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/CharacterAnimations/Movement/Jump.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/CharacterAnimations/Movement/Jump.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/CharacterAnimations/Movement/Jump2.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/CharacterAnimations/Movement/Jump2.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BrokenVector/UltimateDungeonPack/Materials/Candles.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BrokenVector/UltimateDungeonPack/Materials/Candles.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BrokenVector/UltimateDungeonPack/Materials/Diffuse_Default.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BrokenVector/UltimateDungeonPack/Materials/Diffuse_Default.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BrokenVector/UltimateDungeonPack/Materials/FakeSky.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BrokenVector/UltimateDungeonPack/Materials/FakeSky.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BrokenVector/UltimateDungeonPack/Materials/Floor.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BrokenVector/UltimateDungeonPack/Materials/Floor.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BrokenVector/UltimateDungeonPack/Materials/Floor_Muddy.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BrokenVector/UltimateDungeonPack/Materials/Floor_Muddy.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BrokenVector/UltimateDungeonPack/Materials/Glass.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BrokenVector/UltimateDungeonPack/Materials/Glass.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BrokenVector/UltimateDungeonPack/Materials/HeatGlow.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BrokenVector/UltimateDungeonPack/Materials/HeatGlow.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BrokenVector/UltimateDungeonPack/Materials/Liquids.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BrokenVector/UltimateDungeonPack/Materials/Liquids.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BrokenVector/UltimateDungeonPack/Materials/Metal_Polished.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BrokenVector/UltimateDungeonPack/Materials/Metal_Polished.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BrokenVector/UltimateDungeonPack/Materials/Metal_Rusty.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BrokenVector/UltimateDungeonPack/Materials/Metal_Rusty.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BrokenVector/UltimateDungeonPack/Materials/Paper.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BrokenVector/UltimateDungeonPack/Materials/Paper.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BrokenVector/UltimateDungeonPack/Materials/Plants.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BrokenVector/UltimateDungeonPack/Materials/Plants.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BrokenVector/UltimateDungeonPack/Materials/Stone.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BrokenVector/UltimateDungeonPack/Materials/Stone.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BrokenVector/UltimateDungeonPack/Materials/Wall_Muddy.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BrokenVector/UltimateDungeonPack/Materials/Wall_Muddy.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BrokenVector/UltimateDungeonPack/Materials/Water_Muddy.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BrokenVector/UltimateDungeonPack/Materials/Water_Muddy.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BrokenVector/UltimateDungeonPack/Materials/Wood.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BrokenVector/UltimateDungeonPack/Materials/Wood.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BrokenVector/UltimateDungeonPack/Materials/Wood_Polished.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BrokenVector/UltimateDungeonPack/Materials/Wood_Polished.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BrokenVector/UltimateDungeonPack/Palettes/Materials/Mage_Room.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BrokenVector/UltimateDungeonPack/Palettes/Materials/Mage_Room.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DungeonAssetPack/Texture/Materials/DungeonTexture.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/DungeonAssetPack/Texture/Materials/DungeonTexture.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyDungeonsLite/Materials/LowPolyDungeonsLite_BG.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LowPolyDungeonsLite/Materials/LowPolyDungeonsLite_BG.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyDungeonsLite/Materials/LowPolyDungeonsLite_Light.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LowPolyDungeonsLite/Materials/LowPolyDungeonsLite_Light.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyDungeonsLite/Materials/LowPolyDungeonsLite_MAIN.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LowPolyDungeonsLite/Materials/LowPolyDungeonsLite_MAIN.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPolyDungeonsLite/Materials/LowPolyDungeonsLite_Texture_01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LowPolyDungeonsLite/Materials/LowPolyDungeonsLite_Texture_01.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/TestScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/TestScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Character/ThirdPersonMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Character/ThirdPersonMovement.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SlashingAnimationStateController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SlashingAnimationStateController.cs.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/TwoDimensionalAnimationStateController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/TwoDimensionalAnimationStateController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.progrids/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.progrids/Settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Fbx low poly/Materials/Color_A03.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Fbx low poly/Materials/Color_A03.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Fbx low poly/Materials/Color_A04.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Fbx low poly/Materials/Color_A04.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Fbx low poly/Materials/Color_A07.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Fbx low poly/Materials/Color_A07.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Fbx low poly/Materials/Color_B04.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Fbx low poly/Materials/Color_B04.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Fbx low poly/Materials/Color_C08.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Fbx low poly/Materials/Color_C08.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Fbx low poly/Materials/Color_D05.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Fbx low poly/Materials/Color_D05.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Fbx low poly/Materials/Color_F06.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Fbx low poly/Materials/Color_F06.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Fbx low poly/Materials/Color_F08.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Fbx low poly/Materials/Color_F08.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Fbx low poly/Materials/Color_G03.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Fbx low poly/Materials/Color_G03.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Fbx low poly/Materials/Color_G06.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Fbx low poly/Materials/Color_G06.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Fbx low poly/Materials/Color_H03.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Fbx low poly/Materials/Color_H03.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Fbx low poly/Materials/Color_J03.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Fbx low poly/Materials/Color_J03.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Fbx low poly/Materials/Color_M00.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Fbx low poly/Materials/Color_M00.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Fbx low poly/Materials/Color_M03.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Fbx low poly/Materials/Color_M03.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Fbx low poly/Materials/FrontColor.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Fbx low poly/Materials/FrontColor.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Fbx low poly/Materials/Mat.2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Fbx low poly/Materials/Mat.2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_B03.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_B03.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_B04.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_B04.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_B05.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_B05.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_B06.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_B06.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_C06.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_C06.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_C07.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_C07.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_C08.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_C08.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_D02.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_D02.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_D05.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_D05.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_D06.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_D06.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_D07.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_D07.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_D08.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_D08.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_E02.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_E02.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_E05.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_E05.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_F04.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_F04.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_F07.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_F07.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_G03.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_G03.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_G06.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_G06.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_G07.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_G07.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_G08.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_G08.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_H08.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_H08.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_I03.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_I03.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_I08.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_I08.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_L02.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_L02.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_M00.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_M00.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_M02.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_M02.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_M04.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_M04.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_M05.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Materials/Color_M05.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Materials/FrontColor.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Materials/FrontColor.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Materials/Mat.1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Materials/Mat.1.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Materials/Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Materials/Mat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Materials/Terrazzo.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Materials/Terrazzo.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Materials/Translucent_Glass_Blue.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Materials/Translucent_Glass_Blue.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Materials/f.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Materials/f.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Materials/m.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Materials/m.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Particle/Flaer/Materials/Color_B04.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Particle/Flaer/Materials/Color_B04.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/Rock/New Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/Rock/New Material.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/land/New Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/land/New Material.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/low poly/Materials/Color_C08.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/low poly/Materials/Color_C08.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/low poly/Materials/Color_E02.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/low poly/Materials/Color_E02.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/low poly/Materials/Color_M04.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/low poly/Materials/Color_M04.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/low poly/Materials/FrontColor.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/low poly/Materials/FrontColor.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/low poly pack/low poly/New Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/low poly pack/low poly/New Material.mat" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +166,10 @@
       <workItem from="1645973644853" duration="1292000" />
       <workItem from="1645975622914" duration="24000" />
       <workItem from="1646052439784" duration="10267000" />
-      <workItem from="1646082064276" duration="763000" />
+      <workItem from="1646082064276" duration="2033000" />
+      <workItem from="1646140829850" duration="127000" />
+      <workItem from="1646229200648" duration="619000" />
+      <workItem from="1646320626555" duration="7123000" />
     </task>
     <servers />
   </component>
